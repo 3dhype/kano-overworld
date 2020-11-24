@@ -99,79 +99,79 @@ return {
     beachArea = "SD Strand",
     lakeArea = "Logisch Meer",
     lakeSchoolArea = "Logische Poort School",
-    coveArea = "Stroom Pad",
+    coveArea = "VoedingsPad",
     plainsArea = "Glazvezelvlakte",
-    portetherArea = "Port Ether",
+    portetherArea = "Ether Poort",
     etherstationArea = "Ether St Station",
-    villageArea = "Vector dorp",
+    villageArea = "Vector Dorp",
     jungleArea = "Python Jungle",
-    minesentranceArea = "Blokkeer mijningang",
-    minesArea = "Blokkeer mijnen",
-    momaArea = "Museum of Make Art",
+    minesentranceArea = "Blokmijn ingang",
+    minesArea = "Blokmijn",
+    momaArea = "Museum van Gemaakte Kunst",
     powerArea = "Voedingspoort",
-    hdmiArea = "HD Hill",
+    hdmiArea = "HD Heuvel",
 
     --- People's Names ---
 
-    mrPong = "Allan",
+    mrPong = "Arjan",
     mrInfo = "Mr. Info",
-    LogicLakeNerd = "Curious Student",
+    LogicLakeNerd = "Nieuwsgierige Student",
     LogicLakeMaster = "Mosfet",
     Radu = "Radu",
     rivalKid = "Rival",
-    portetherMayorName = "Mayor of Port Ether",
+    portetherMayorName = "Burgemeester van Ether Poort",
     Caroline = "Caroline",
     Asterix = "Asterix",
     Tilde = "Tilde",
-    antlerBoy = "Semicolon",
+    antlerBoy = "Puntkomma",
     Alex = "Alex",
     Vertex = "Curator",
     DevOps = "DevOps",
-    chilledBoy = "Chilled Boy",
-    chilledGirl = "Chilled Girl",
+    chilledBoy = "Stoere jongen",
+    chilledGirl = "Stoer meisje",
     Gregory = "Gregory",
-    cafeTextCode = "Text Code Fan",
-    cafeBlocksCode = "Blocks Code Fan",
-    cafeHostess = "Coffee Script Fan",
+    cafeTextCode = "Tekst Code Fan",
+    cafeBlocksCode = "Blok Code Fan",
+    cafeHostess = "Koffie Script Fan",
     Twin1 = "Pix",
     Twin2 = "El",
     pixelHacker = "Pixel Hacker",
-    MissWatts = "Miss Watts",
-    powerGuardName = "Power Guard",
+    MissWatts = "Mevrouw Watts",
+    powerGuardName = "Voedingswachter",
     HDMasterName = "HD Cameraman",
-    newsReporter = "HD News Reporter",
-    Jack = "Jack",
+    newsReporter = "HD Verslaggever",
+    Jack = "Jan",
 
     --- Tech Questions ---
 
-    logic = "What are Logic Gates?",
+    logic = "Wat zijn logische poorten?",
 
     ------ SPEECH BUBBLES ---------------------------------------------------------------
 
-    level = "You are in level $1, and have completed $2 challenges",
+    level = "Je bent in level $1 en hebt $2 uitdagingen voltooid",
 
 
     ------ DIALOGUES --------------------------------------------------------------------
 
     -- Overworld - Beach --
 
-    mrPongDiag1 = "Pong. Pong. Pong. I love Pong. Fancy a game? Or even better, make your own?",
-    mrPongDiag2 = "Boo! Maybe you should go and find the Art Museum instead.",
-    mrInfoDiag1 = "Did you know SD Beach is built on a micro SD card? Below are" ..
-         " teeny tiny electronic chips that remember your masterpieces, even when your" ..
-         " computer is turned off. Check the map to see other parts of the computer.",
-    chilledgirlDiag0 = "Woah! Where'd you just come from? Was that strange rabbit with you?",
-    chilledgirlDiag = "Done all the Pong challenges yet? I hear you unlock a badge if you do.",
-    sunburntDiag0 = "It's my first time at SD Beach too. Under our feet are all the computer's" ..
-         " memories.",
-    sunburntDiag = "I've just come from the Block Mines, where I learnt new super powers" ..
-         " that control Minecraft!",
-    beachSignPost = "Exit to Power Path",
-    gregory1 = "Pong may seem simple, but master its code and there's no stopping you." ..
-         " Talk to Allan in the orange hut to try Make Pong.",
-    gregory2 = "Hmm you've not finished Make Pong? It's a great way to level up and earn" ..
-         " more coding powers! You'll need them.",
-    gregory3 = "Wow you're level $1! Have you tried sharing a creation?",
+    mrPongDiag1 = "Pong. Pong. Pong. Ik hou van Pong. Zin in een spelletje? Of nog beter, zelf maken?",
+    mrPongDiag2 = "Boe! Misschien moet je in plaats daarvan het Kunstmuseum gaan zoeken.",
+    mrInfoDiag1 = "Wist je dat SD Strand gebouwd is op een micro SD-kaart? Hieronder staan" ..
+         " piepkleine elektronische chips die je meesterwerken onthouden, zelfs als je" ..
+         " computer is uitgeschakeld. Kijk op de kaart om andere delen van de computer te zien.",
+    chilledgirlDiag0 = "Woah! Waar kom je net vandaan? Was dat vreemde konijn bij jou?",
+    chilledgirlDiag = "Heb je alle Pong-uitdagingen al gedaan? Ik hoor dat je een badge ontgrendelt als je dat doet.",
+    sunburntDiag0 = "Het is ook mijn eerste keer op SD Strand. Onder onze voeten ligt al het geheugen" ..
+         " van de computer.",
+    sunburntDiag = "Ik kom net uit de de Blokmijn, waar ik nieuwe superkrachten heb geleerd" ..
+         " die Minecraft besturen!",
+    beachSignPost = "Terug naar Voedingspad",
+    gregory1 = "Pong lijkt misschien simpel, maar beheers de code en je kunt jezelf niet meer tegenhouden." ..
+         " Praat met Arjan in de oranje hut om Creeer Pong te proberen.",
+    gregory2 = "Hmm je bent nog niet klaar met Make Pong? Het is een geweldige manier om een hoger niveau te bereiken en meer " ..
+         " codeerkrachten te verdienen! Je hebt ze nodig.",
+    gregory3 = "Wauw je bent bij level $1! Heb je geprobeerd een creatie te delen?",
 
     --- Newsboard for updates ---
 
