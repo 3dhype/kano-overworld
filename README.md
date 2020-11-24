@@ -12,7 +12,7 @@ Installation
 sudo apt update
 sudo apt upgrade
 sudo apt install love zip
-git clone https://github.com/bggardner/kano-overworld.git
+git clone https://github.com/3dhype/kano-overworld.git
 cd kano-overworld
 zip -9 -r kanoOverworld.love . -x ./.git\*
 ```
