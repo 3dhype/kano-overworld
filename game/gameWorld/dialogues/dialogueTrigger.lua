@@ -74,7 +74,7 @@ function DialogueTrigger:executeTrigger(trigger, triggerData)
 
     if trigger == 'CMD_PONG' then
         self.triggers[trigger] = self.triggers[trigger] + 1
-        self.objectManager:activateAction('loading', 0, 0, '/usr/bin/pong')
+        self.objectManager:activateAction('loading', 0, 0, '/pong')
 
     elseif trigger == 'CMD_MAKE_PONG' then
         self.triggers[trigger] = self.triggers[trigger] + 1
