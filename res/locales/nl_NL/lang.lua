@@ -177,7 +177,7 @@ return {
 
     newsboard = "- - - LAATSTE NIEUWS - - - \nDe VoedingsPoort is gebouwd! Volg het" ..
         " Voedingspad naar het zuiden en bekijk de LED. \nHD Heuvel is nu geopend. Ga naar het oosten van Logisch" ..
-        " Meer en volg de kabels om van het uizicht te genieten. \n\nEther Poort heeft ook zijn Geluidspoort geopend" ..
+        " Meer en volg de kabels om van het uitzicht te genieten. \n\nEther Poort heeft ook zijn Geluidspoort geopend" ..
         " Ga naar de disco en doe mee met het feest.",
 
     -- Beach -- Quests --
@@ -187,10 +187,10 @@ return {
     mrInfoQuestTitle = "Verken de wereld",
     mrInfoQuestComplete = "Geleerd om de wereldkaart te gebruiken.",
     mrInfoQuest1 = "Hallo $1. Welkom op je computer. Hoe meer je ontdekt en maakt," ..
-         "hoe sterker je wordt. Open je kaart om de wereld te zien.",
+         " hoe sterker je wordt. Open je kaart om de wereld te zien.",
     mrInfoQuest2 = "Om het Witte Konijn te verslaan, moet je een level omhoog gaan. Ontdek de" ..
-         "computergeheimen en overwin codeeruitdagingen om een Kano Master te worden." ..
-         "Ik zag het witte konijn naar rechts stuiteren, richting de Voedings" ..
+         " computergeheimen en overwin codeeruitdagingen om een Kano Master te worden." ..
+         " Ik zag het witte konijn naar rechts hoppen, richting de Voedings" ..
          "Poort. Het is misschien verstandig om het te volgen en te kijken wat het van plan is.",
     mrInfoQuest3 = "Blijf deze wereld ontdekken. Kom terug en vind me als je meer dan de helft" ..
          " van het eiland hebt ontdekt",
