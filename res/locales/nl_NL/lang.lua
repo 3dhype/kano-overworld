@@ -242,58 +242,58 @@ return {
 
     --- Power Quest ---
 
-    powerQuestTitle = "The Power Port",
-    powerQuestComplete = "Discovered how the computer is powered.",
-    powerQuest = "POW you made it! I'm in CHARGE of monitoring the power levels. When" ..
-        " the red light is on, we know that there is energy flowing into the computer.",
-    powerQuest2 = "Why don't you check out the LED over there?",
-    powerQuest3 = "Pretty bright isn't it? By the way, there was an energetic rabbit" ..
-        " bouncing around. I don't think it did anything, but it does seem mischievous." ..
-        " I think it headed towards the HDMI port.",
-    powerQuestHelp = "Follow the white rabbit down the Power Path.",
-    powerQuestHelp2 = "Investigate the LED in the lighthouse.",
-    powerQuestHelp3 = "Find out more from Miss Watts.",
+    powerQuestTitle = "De Voedingspoort",
+    powerQuestComplete = "Ontdekt hoe de computer wordt aangedreven.",
+    powerQuest = "WOW je hebt het gehaald! Ik ben bezig met het bewaken van de vermogensniveaus. Wanneer" ..
+        "het rode lampje brandt, we weten dat er energie in de computer stroomt.",
+    powerQuest2 = "Waarom kijk je daar niet naar de LED?",
+    powerQuest3 = "Behoorlijk slim, niet? Trouwens, er was een energiek konijn" ..
+        "aan het rondhupsen. Ik denk dat het niets heeft gedaan, maar het lijkt ondeugend." ..
+        "Ik denk dat het richting de HDMI-poort ging.",
+    powerQuestHelp = "Volg het witte konijn over het Voedingspad.",
+    powerQuestHelp2 = "Onderzoek de LED in de vuurtoren.",
+    powerQuestHelp3 = "Lees meer van Miss Watts.",
 
     -- Overworld - Cove --
 
-    hdmicuriousDiag = "Have you seen the yellow HDMI cables? They take the 2,073,600 pixels" ..
-        " from the computer's brain and brings them to life on screen.",
+    hdmicuriousDiag = "Heb je de gele HDMI-kabels gezien? Ze nemen de 2.073.600 pixels vanuit" ..
+         " het brein van de computer en brengen ze op het scherm tot leven.",
 
     -- Overworld - Logic Lake --
 
-    mrFlappy1 = "Great games are based on simple logic. Flap up, or else fall down." ..
-        " Your high score is $1. Let's see how far you fly!",
-    mrFlappy2 = "Come back any time.",
-    llFarmer = "These yellow HDMI cables are 'High-Definition'. They send 'Media' - sound" ..
-        " and pictures. That makes them an 'Interface.'",
-    llMaster = "I'm Mosfet, Logic Master. What are logic gates? Only the building blocks" ..
-        " of digital computers!",
-    llMaster2 = "Logic gates take 1s and 0s in and output a single 1 or 0. Connect many" ..
-        " logic gates together and you have a series of instructions for anything.",
-    llMaster3 = "Good luck on your journey. Keep exploring and leveling up.",
-    llPupil = "You can use coding languages to change the rules of the computer.",
-    llNerd = "Can you help me? I'm studying to become a Kano Master, but there are some secret" ..
-        " scrolls I need to level up.",
-    llNerd2 = "I hear some twins in Vector Village may have what I need. Can you find it" ..
-        " and let me know what you learn?",
-    llNerd3 = "You found it! So code turns humans words into binary. Computers think in" ..
-        " binary. I must know more!",
-    llNerd4 = "Can you try to find out how programs work? Apparently there's" ..
-        " a book in Port Ether library that has this info.",
-    llNerd5 = "Incredible! So I tell computers what to do using code. Thanks so much for" ..
-        " your help.",
-    llNerdDiag = "I'm a student here. My favorite Logic Gate is the NOT gate. Have" ..
-        " you spoken to the Logic Master yet?",
-    llSignpost = "Logic Lake - Home of the Logicians",
-    llCheerfulGirl = "These HDMI cables send millions of tiny blocks of color called" ..
-        " pixels to a screen. Have you ever tried to plug one in?",
-    llScaredSon = "If you get lost exploring you can fast travel to places you've" ..
-        " discovered! Open the map with [ESC] and click where you want to go.",
-    llRunnerGirl = "Logic is cool. You can use it to make some great games!",
-    llComputer = "LOGIC GATES:\nA logic gate is a building block of a digital circuit. Most" ..
-        " logic gates have 2 inputs and 1 output. At any given moment, every terminal" ..
-        " is in one of the 2 binary conditions low (0) or high (1).",
-    LakeExitSign = "Exit to Fiberglass Plains",
+    mrFlappy1 = "Geweldige spellen zijn gebaseerd op simpele logica. Flap op, of val anders naar beneden." ..
+        "Je hoogste score is $1. Laten we eens kijken hoe ver je vliegt!",
+    mrFlappy2 = "Kom terug wanneer je weer tijd hebt.",
+    llFarmer = "Deze gele HDMI-kabels zijn 'High-Definition'. Ze sturen 'Media' - geluid" ..
+        "en afbeeldingen. Dat maakt ze tot een 'interface'.",
+    llMaster = "Ik ben Mosfet, Logische Meester. Wat zijn logische poorten? Dat zijn de bouwstenen" ..
+        "van digitale computers!",
+    llMaster2 = "Logische poorten nemen eenen en nullen in en geven een enkele een of nul uit. Verbind veel" ..
+        "logische poorten samen en je hebt een reeks instructies voor alles.",
+    llMaster3 = "Veel succes op je reis. Blijf ontdekken en level je omhoog.",
+    llPupil = "Je kunt coderingstalen gebruiken om de regels van de computer te wijzigen.",
+    llNerd = "Kun je me helpen? Ik studeer om een Kano Master te worden, maar er zijn geheime" ..
+        "rollen die ik nodig heb om een level omhoog te gaan.",
+    llNerd2 = "Ik hoor dat een tweeling in Vector Dorp misschien heeft wat ik nodig heb. Kun je het vinden" ..
+        "en laat me weten wat je hebt geleerd?",
+    llNerd3 = "Je hebt het gevonden! Dus code verandert menselijke woorden in binair. Computers denken in" ..
+        "binair. Ik moet meer weten!",
+    llNerd4 = "Kun je proberen uit te vinden hoe programma's werken? Blijkbaar is er" ..
+        "een boek in de Ether Poort-bibliotheek met deze info.",
+    llNerd5 = "Ongelofelijk! Dus ik vertel computers wat ze moeten doen met code. Heel erg bedankt voor" ..
+        " je hulp.",
+    llNerdDiag = "Ik ben hier een student. Mijn favoriete Logische Poort is de NOT-poort." ..
+        " Heb je al met de Logische Meester gesproken?",
+    llSignpost = "Logisch Meer - Huis van de Logici",
+    llCheerfulGirl = "Deze HDMI-kabels sturen miljoenen kleine kleurblokken aan genaamd" ..
+        "pixels op een scherm. Heb je ooit geprobeerd er een aan te sluiten?",
+    llScaredSon = "Als je verdwaalt tijdens het verkennen, kun je snel reizen naar plaatsen die je" ..
+        "ontdekt! Open de kaart met [ESC] en klik waar je heen wilt.",
+    llRunnerGirl = "Logica is cool. Je kunt het gebruiken om geweldige spellen te maken!",
+    llComputer = "LOGISCHE POORTEN: \ nEen logische poort is een bouwsteen van een digitaal circuit. De meeste" ..
+        "logische poorten hebben 2 ingangen en 1 uitgang. Op elk moment kan elke terminal" ..
+        "zich in een van de 2 binaire staten bevinden, laag (0) of hoog (1).",
+    LakeExitSign = "Afrit naar Glasvezelvlakte",
 
     --- Flappy Kid Decision dialogue ---
 
