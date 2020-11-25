@@ -175,71 +175,70 @@ return {
 
     --- Newsboard for updates ---
 
-    newsboard = "- - - LATEST NEWS - - -\nThe Power Port has been built! Follow the" ..
-        " Power Path down south and view the LED. \nHD Hill has now opened. Go to the east of Logic" ..
-        " Lake and follow the cables to see the sights. \n\nPort Ether has also opened its Sound Port." ..
-        " Check out the disco and join the party.",
+    newsboard = "- - - LAATSTE NIEUWS - - - \nDe VoedingsPoort is gebouwd! Volg het" ..
+        " Voedingspad naar het zuiden en bekijk de LED. \nHD Heuvel is nu geopend. Ga naar het oosten van Logisch" ..
+        " Meer en volg de kabels om van het uizicht te genieten. \n\nEther Poort heeft ook zijn Geluidspoort geopend" ..
+        " Ga naar de disco en doe mee met het feest.",
 
     -- Beach -- Quests --
 
     -- Mr Info Quest ---
 
-    mrInfoQuestTitle = "Explore the world",
-    mrInfoQuestComplete = "Learned to use the world map.",
-    mrInfoQuest1 = "Hello $1. Welcome to your computer. The more you explore and make," ..
-         " the more powerful you'll become. Open your map to see the world.",
-    mrInfoQuest2 = "To defeat the White Rabbit you'll have to level-up. Uncover the" ..
-         " computer's secrets and conquer coding challenges to become a Kano Master." ..
-         " I saw the white rabbit bouncing off to the right, towards the Power" ..
-         " Port. It might be wise to follow it and see what it's up to.",
-    mrInfoQuest3 = "Keep exploring this world. Come back and find me when you've discovered" ..
-         " more than half of the island.",
-    mrInfoQuest4 = "High-five! If you want to discover more about the world, you should" ..
-         " head over to the Logic Gate School.",
-    mrInfoQuestHelp1 = "Talk to the Info Center on SD Beach.",
-    mrInfoQuestHelp2 = "See what else Mr. Info has to say.",
-    mrInfoQuestHelp3 = "Explore at least 50% of the world.",
-    mrInfoQuestHelp4 = "Go back to Mr. Info on SD Beach.",
-
+    mrInfoQuestTitle = "Verken de wereld",
+    mrInfoQuestComplete = "Geleerd om de wereldkaart te gebruiken.",
+    mrInfoQuest1 = "Hallo $1. Welkom op je computer. Hoe meer je ontdekt en maakt," ..
+         "hoe sterker je wordt. Open je kaart om de wereld te zien.",
+    mrInfoQuest2 = "Om het Witte Konijn te verslaan, moet je een level omhoog gaan. Ontdek de" ..
+         "computergeheimen en overwin codeeruitdagingen om een Kano Master te worden." ..
+         "Ik zag het witte konijn naar rechts stuiteren, richting de Voedings" ..
+         "Poort. Het is misschien verstandig om het te volgen en te kijken wat het van plan is.",
+    mrInfoQuest3 = "Blijf deze wereld ontdekken. Kom terug en vind me als je meer dan de helft" ..
+         " van het eiland hebt ontdekt",
+    mrInfoQuest4 = "High-five! Als je meer over de wereld wilt ontdekken, moet je" ..
+         " naar de Logische Poort School gaan.",
+    mrInfoQuestHelp1 = "Praat met het Info Centrum op SD Strand.",
+    mrInfoQuestHelp2 = "Kijk wat meneer Info nog meer te zeggen heeft.",
+    mrInfoQuestHelp3 = "Verken tenminste 50% van de wereld.",
+    
     --- Pong Quest ---
 
-    pongQuestTitle = "Intro to Make Pong",
-    pongQuestComplete = "Completed Make Pong basics.",
-    pongQuestHelp1 = "Talk to Gregory on the beach.",
-    pongQuestHelp2 = "Complete challenge 2 in Pong.",
-    pongQuestHelp3 = "Listen to Gregory's Pong advice.",
-    pongQuest1 = "Hey there! You can make your own Pong game y'know.",
-    pongQuest2 = "How about making the most awesome game of Pong ever? Talk to Allan in" ..
-        " the orange hut and try to beat 2 challenges.",
-    pongQuest3 = "Nice job. You're on your way to becoming a Kano Master. Have you tried" ..
-        " sharing your amazing Pong creation?",
+    pongQuestTitle = "Introductie om Pong te maken",
+    pongQuestComplete = "Voltooid basis Pong Maken.",
+    pongQuestHelp1 = "Praat met Gregory op het strand.",
+    pongQuestHelp2 = "Voltooi uitdaging 2 in Pong.",
+    pongQuestHelp3 = "Luister naar Gregory's Pong-advies.",
+    pongQuest1 = "Hallo daar! Je kunt je eigen Pong-spel maken, weet je.",
+    pongQuest2 = "Hoe zit het met het maken van het meest geweldige spel van Pong ooit? Praat met Allan in" ..
+         "de oranje hut en probeer 2 uitdagingen te verslaan.",
+    pongQuest3 = "Goed gedaan. Je bent op weg om een Kano Master te worden. Heb je het geprobeerd" ..
+         "je geweldige Pong-creatie te delen?",
 
     -- Overworld -- Power Lighthouse ---
 
-    powerOutside = "Have you come to visit the Power Port too? Did you know the whole" ..
-        " computer is powered by energy brought in through the red cable?",
-    powerOutside2 = "I hear you should never pull the power cable out without shutting" ..
-        " the computer down first.",
-    powerOutside3 = "Because the data can get corrupted and cause the computer to lose its" ..
-        " memories. Definitely worth shutting down properly!",
-    powerGuard = "Is that rabbit yours?",
-    powerGuard2 = "Oh really? Well its been running around the lighthouse. This is where" ..
-        " we receive electrical energy to power the computer.",
-    powerGuard3 = "Oh ok, well welcome to Power Port. If you climb up to the top of the" ..
-        " lighthouse you can see if the LED is working.",
-    powerPerson1 = "Energy is the ability to do work and can take many forms. In the Power Port" ..
-        " the energy is transformed into electricity and light.",
-    powerPerson2 = "I don't have much energy. I'm on standby... Zzzzzz...",
-    powerPerson3 = "Yo. Power is the rate at which electrical energy is transferred. The" ..
-        " power port here transfers energy to all the components on the computer.",
-    powerMissWatts = "I'm in CHARGE of monitoring the power levels. When" ..
-        " the red light is on, we know that there is energy flowing into the computer." ..
-        " Check out the light!",
-    powerVoltage = "This computer needs 5 Volts, or 5V to operate. The energy flows in through" ..
-        " this Power Port.",
-    powerCurrent = "You see drawings of the flow of electricity through the computer, and" ..
-        " a note saying: Current is the rate at which electrical charge is transferred.",
-    powerLED = "You see a shining bright red light with the letters PWR underneath.",
+    powerOutside = "Ben je ook gekomen om de Voedingspoort te bezoeken? Wist je dat de hele" ..
+        "computer wordt aangedreven door energie die via de rode kabel wordt aangevoerd?",
+    powerOutside2 = "Ik heb gehoord dat je de stroomkabel nooit uit het stopcontact mag trekken zonder hem af te sluiten" ..
+        "de computer eerst uitschakelen.",
+    powerOutside3 = "Omdat de gegevens beschadigd kunnen raken en ervoor kan zorgen dat de computer zijn" ..
+        "geheugen kwijtraakt. Absoluut de moeite waard om goed af te sluiten!",
+    powerGuard = "Is dat konijn van jou?",
+    powerGuard2 = "Oh echt? Nou, hij rent rond de vuurtoren. Dit is waar" ..
+        "we elektrische energie ontvangen om de computer van stroom te voorzien.",
+    powerGuard3 = "Oh ok, welkom bij Voedingspoort. Als je naar de top van de" ...
+        "vuurtoren gaat kun je zien of de LED werkt.",
+    powerPerson1 = "Energie is het vermogen om werk te doen en kan vele vormen aannemen. In de Voedingspoort" ..
+        "wordt de energie omgezet in elektriciteit en licht.",
+    powerPerson2 = "Ik heb niet veel energie. Ik ben stand-by ... Zzzzzz ...",
+    powerPerson3 = "Yo. Vermogen is de snelheid waarmee elektrische energie wordt overgedragen. De" ..
+        "Voedingspoort brengt hier energie over naar alle componenten op de computer.",
+    powerMissWatts = "Ik ben bezig met het bewaken van de vermogensniveaus. Wanneer" ..
+        "het rode lampje brandt, weten we dat er energie in de computer stroomt." ..
+        "Kijk naar het licht!",
+    powerVoltage = "Deze computer heeft 5 volt of 5V nodig om te werken. De energie stroomt door" ..
+        "deze Voedingspoort.",
+    powerCurrent = "Je ziet tekeningen van de stroom van elektriciteit door de computer, en" ..
+        "een briefje met de tekst: Vermogen is de snelheid waarmee elektrische lading wordt overgedragen.",
+    powerLED = "Je ziet een stralend helder rood licht met de letters PWR eronder.",
 
     --- Power Quest ---
 
