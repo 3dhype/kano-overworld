@@ -191,7 +191,7 @@ return {
     mrInfoQuest2 = "Om het Witte Konijn te verslaan, moet je een level omhoog gaan. Ontdek de" ..
          " computergeheimen en overwin codeeruitdagingen om een Kano Master te worden." ..
          " Ik zag het witte konijn naar rechts hoppen, richting de Voedings" ..
-         "Poort. Het is misschien verstandig om het te volgen en te kijken wat het van plan is.",
+         " Poort. Het is misschien verstandig om het te volgen en te kijken wat het van plan is.",
     mrInfoQuest3 = "Blijf deze wereld ontdekken. Kom terug en vind me als je meer dan de helft" ..
          " van het eiland hebt ontdekt",
     mrInfoQuest4 = "High-five! Als je meer over de wereld wilt ontdekken, moet je" ..
@@ -209,35 +209,35 @@ return {
     pongQuestHelp3 = "Luister naar Gregory's Pong-advies.",
     pongQuest1 = "Hallo daar! Je kunt je eigen Pong-spel maken, weet je.",
     pongQuest2 = "Hoe zit het met het maken van het meest geweldige spel van Pong ooit? Praat met Allan in" ..
-         "de oranje hut en probeer 2 uitdagingen te verslaan.",
+         " de oranje hut en probeer 2 uitdagingen te verslaan.",
     pongQuest3 = "Goed gedaan. Je bent op weg om een Kano Master te worden. Heb je het geprobeerd" ..
-         "je geweldige Pong-creatie te delen?",
+         " je geweldige Pong-creatie te delen?",
 
     -- Overworld -- Power Lighthouse ---
 
     powerOutside = "Ben je ook gekomen om de Voedingspoort te bezoeken? Wist je dat de hele" ..
-        "computer wordt aangedreven door energie die via de rode kabel wordt aangevoerd?",
+        " computer wordt aangedreven door energie die via de rode kabel wordt aangevoerd?",
     powerOutside2 = "Ik heb gehoord dat je de stroomkabel nooit uit het stopcontact mag trekken zonder hem af te sluiten" ..
-        "de computer eerst uitschakelen.",
+        " de computer eerst uitschakelen.",
     powerOutside3 = "Omdat de gegevens beschadigd kunnen raken en ervoor kan zorgen dat de computer zijn" ..
-        "geheugen kwijtraakt. Absoluut de moeite waard om goed af te sluiten!",
+        " geheugen kwijtraakt. Absoluut de moeite waard om goed af te sluiten!",
     powerGuard = "Is dat konijn van jou?",
     powerGuard2 = "Oh echt? Nou, hij rent rond de vuurtoren. Dit is waar" ..
-        "we elektrische energie ontvangen om de computer van stroom te voorzien.",
-    powerGuard3 = "Oh ok, welkom bij Voedingspoort. Als je naar de top van de" ...
-        "vuurtoren gaat kun je zien of de LED werkt.",
+        " we elektrische energie ontvangen om de computer van stroom te voorzien.",
+    powerGuard3 = "Oh ok, welkom bij Voedingspoort. Als je naar de top van de" ..
+        " vuurtoren gaat kun je zien of de LED werkt.",
     powerPerson1 = "Energie is het vermogen om werk te doen en kan vele vormen aannemen. In de Voedingspoort" ..
-        "wordt de energie omgezet in elektriciteit en licht.",
+        " wordt de energie omgezet in elektriciteit en licht.",
     powerPerson2 = "Ik heb niet veel energie. Ik ben stand-by ... Zzzzzz ...",
     powerPerson3 = "Yo. Vermogen is de snelheid waarmee elektrische energie wordt overgedragen. De" ..
-        "Voedingspoort brengt hier energie over naar alle componenten op de computer.",
+        " Voedingspoort brengt hier energie over naar alle componenten op de computer.",
     powerMissWatts = "Ik ben bezig met het bewaken van de vermogensniveaus. Wanneer" ..
-        "het rode lampje brandt, weten we dat er energie in de computer stroomt." ..
-        "Kijk naar het licht!",
+        " het rode lampje brandt, weten we dat er energie in de computer stroomt." ..
+        " Kijk naar het licht!",
     powerVoltage = "Deze computer heeft 5 volt of 5V nodig om te werken. De energie stroomt door" ..
-        "deze Voedingspoort.",
+        " deze Voedingspoort.",
     powerCurrent = "Je ziet tekeningen van de stroom van elektriciteit door de computer, en" ..
-        "een briefje met de tekst: Vermogen is de snelheid waarmee elektrische lading wordt overgedragen.",
+        " een briefje met de tekst: Vermogen is de snelheid waarmee elektrische lading wordt overgedragen.",
     powerLED = "Je ziet een stralend helder rood licht met de letters PWR eronder.",
 
     --- Power Quest ---
@@ -245,11 +245,11 @@ return {
     powerQuestTitle = "De Voedingspoort",
     powerQuestComplete = "Ontdekt hoe de computer wordt aangedreven.",
     powerQuest = "WOW je hebt het gehaald! Ik ben bezig met het bewaken van de vermogensniveaus. Wanneer" ..
-        "het rode lampje brandt, we weten dat er energie in de computer stroomt.",
+        " het rode lampje brandt, we weten dat er energie in de computer stroomt.",
     powerQuest2 = "Waarom kijk je daar niet naar de LED?",
     powerQuest3 = "Behoorlijk slim, niet? Trouwens, er was een energiek konijn" ..
-        "aan het rondhupsen. Ik denk dat het niets heeft gedaan, maar het lijkt ondeugend." ..
-        "Ik denk dat het richting de HDMI-poort ging.",
+        " aan het rondhupsen. Ik denk dat het niets heeft gedaan, maar het lijkt ondeugend." ..
+        " Ik denk dat het richting de HDMI-poort ging.",
     powerQuestHelp = "Volg het witte konijn over het Voedingspad.",
     powerQuestHelp2 = "Onderzoek de LED in de vuurtoren.",
     powerQuestHelp3 = "Lees meer van Miss Watts.",
@@ -262,96 +262,97 @@ return {
     -- Overworld - Logic Lake --
 
     mrFlappy1 = "Geweldige spellen zijn gebaseerd op simpele logica. Flap op, of val anders naar beneden." ..
-        "Je hoogste score is $1. Laten we eens kijken hoe ver je vliegt!",
+        " Je hoogste score is $1. Laten we eens kijken hoe ver je vliegt!",
     mrFlappy2 = "Kom terug wanneer je weer tijd hebt.",
     llFarmer = "Deze gele HDMI-kabels zijn 'High-Definition'. Ze sturen 'Media' - geluid" ..
-        "en afbeeldingen. Dat maakt ze tot een 'interface'.",
+        " en afbeeldingen. Dat maakt ze tot een 'interface'.",
     llMaster = "Ik ben Mosfet, Logische Meester. Wat zijn logische poorten? Dat zijn de bouwstenen" ..
-        "van digitale computers!",
+        " van digitale computers!",
     llMaster2 = "Logische poorten nemen eenen en nullen in en geven een enkele een of nul uit. Verbind veel" ..
-        "logische poorten samen en je hebt een reeks instructies voor alles.",
+        " logische poorten samen en je hebt een reeks instructies voor alles.",
     llMaster3 = "Veel succes op je reis. Blijf ontdekken en level je omhoog.",
     llPupil = "Je kunt coderingstalen gebruiken om de regels van de computer te wijzigen.",
     llNerd = "Kun je me helpen? Ik studeer om een Kano Master te worden, maar er zijn geheime" ..
-        "rollen die ik nodig heb om een level omhoog te gaan.",
+        " rollen die ik nodig heb om een level omhoog te gaan.",
     llNerd2 = "Ik hoor dat een tweeling in Vector Dorp misschien heeft wat ik nodig heb. Kun je het vinden" ..
         "en laat me weten wat je hebt geleerd?",
     llNerd3 = "Je hebt het gevonden! Dus code verandert menselijke woorden in binair. Computers denken in" ..
-        "binair. Ik moet meer weten!",
+        " binair. Ik moet meer weten!",
     llNerd4 = "Kun je proberen uit te vinden hoe programma's werken? Blijkbaar is er" ..
-        "een boek in de Ether Poort-bibliotheek met deze info.",
+        " een boek in de Ether Poort-bibliotheek met deze info.",
     llNerd5 = "Ongelofelijk! Dus ik vertel computers wat ze moeten doen met code. Heel erg bedankt voor" ..
         " je hulp.",
     llNerdDiag = "Ik ben hier een student. Mijn favoriete Logische Poort is de NOT-poort." ..
         " Heb je al met de Logische Meester gesproken?",
     llSignpost = "Logisch Meer - Huis van de Logici",
     llCheerfulGirl = "Deze HDMI-kabels sturen miljoenen kleine kleurblokken aan genaamd" ..
-        "pixels op een scherm. Heb je ooit geprobeerd er een aan te sluiten?",
+        " pixels op een scherm. Heb je ooit geprobeerd er een aan te sluiten?",
     llScaredSon = "Als je verdwaalt tijdens het verkennen, kun je snel reizen naar plaatsen die je" ..
-        "ontdekt! Open de kaart met [ESC] en klik waar je heen wilt.",
+        " ontdekt! Open de kaart met [ESC] en klik waar je heen wilt.",
     llRunnerGirl = "Logica is cool. Je kunt het gebruiken om geweldige spellen te maken!",
-    llComputer = "LOGISCHE POORTEN: \ nEen logische poort is een bouwsteen van een digitaal circuit. De meeste" ..
-        "logische poorten hebben 2 ingangen en 1 uitgang. Op elk moment kan elke terminal" ..
-        "zich in een van de 2 binaire staten bevinden, laag (0) of hoog (1).",
+    llComputer = "LOGISCHE POORTEN: \nEen logische poort is een bouwsteen van een digitaal circuit. De meeste" ..
+        " logische poorten hebben 2 ingangen en 1 uitgang. Op elk moment kan elke terminal" ..
+        " zich in een van de 2 binaire staten bevinden, laag (0) of hoog (1).",
     LakeExitSign = "Afrit naar Glasvezelvlakte",
 
     --- Flappy Kid Decision dialogue ---
 
-    rivalKidDiag = "Hey! I'm a pro at flying in Flappy Judoka. Let's see your skills...",
-    rivalKidDiag2 = "Your current high score is $1. I'm sure you" ..
-        " can do better.",
-    rivalKidDiag3 = "Oh! Your current high score is $1. That's pretty impressive.",
-    rivalKidDiag4 = "WOW! Your current high score is $1. You've got the cool, calm," ..
-        " logical flying nailed.",
+     rivalKidDiag = "Hé! Ik ben zeer goed in het vliegen in Flappy Judoka. Laat eens zien wat jij kunt...",
+     rivalKidDiag2 = "Je huidige hoogste score is $1. Ik weet zeker dat je" ..
+         " beter kan.",
+     rivalKidDiag3 = "Oh! Je hoogste score is $1. Dat is super goed.",
+     rivalKidDiag4 = "WOW! Je hoogste score is $1. Je hebt het coole, kalme" ..
+         "logische vliegen door.",
 
     -- Logic Lake Quests --
 
     -- Rival Kid Quest --
+    
+	rivalKidQuestTitle = "Niemand vliegt beter dan ik",
+	rivalKidQuestComplete = "Haal 30 punten of hoger met Flappy Judoka.",
+	rivalKidQuest1 = "Hé! Heb je Flappy Judoka uitgeprobeerd? Niemand vliegt beter dan ik.",
+	rivalKidQuest2 = "Kun je 20 punten halen in Flappy Judoka? Je kunt spelen" ..
+		"door met de man bij het hek te praten.",
+	rivalKidQuest3 = "Wauw! Goed gedaan. Hoe zit het met het behalen van een score van 30? Dat is mijn hoogste score.",
+	rivalKidQuest4 = "Ga je proberen om 30 punten te halen in Flappy Judoka?",
+	rivalKidQuest5 = "Woah, dat is geweldig! Je bent absoluut goed in simpele op en neer logica." ..
+		"Praat met de Logische School Meester voor meer informatie.",
+	rivalKidHelp1 = "Praat met de tegenstander in Logisch Meer.",
+	rivalKidHelp2 = "Haal een score van 20 of meer in Flappy Judoka.",
+	rivalKidHelp3 = "Praat met de tegenstander in Logisch Meer.",
+	rivalKidHelp4 = "Haal een score van 30 of meer in Flappy Judoka.",
+	rivalKidHelp5 = "Praat met de tegenstander in Logisch Meer.",    
 
-    rivalKidQuestTitle = "No one flies better than me",
-    rivalKidQuestComplete = "Scored 30 or above on Flappy Judoka.",
-    rivalKidQuest1 = "Hey! Have you tried out Flappy Judoka? No one flies better than me.",
-    rivalKidQuest2 = "Can you get 20 points in Flappy Judoka? You can play" ..
-        " by talking to the guy by the fence.",
-    rivalKidQuest3 = "Wow! Well done. What about getting a score of 30? That's my high score.",
-    rivalKidQuest4 = "Are you going to try to get 30 points in Flappy Judoka?",
-    rivalKidQuest5 = "Woah that's amazing! You're definitely good at simple up and down logic." ..
-        " Talk to the Logic School Master to learn more.",
-    rivalKidHelp1 = "Talk to the Rival in Logic Lake.",
-    rivalKidHelp2 = "Get a score of 20 or more in Flappy Judoka.",
-    rivalKidHelp3 = "Talk to the Rival in Logic Lake.",
-    rivalKidHelp4 = "Get a score of 30 or more in Flappy Judoka.",
-    rivalKidHelp5 = "Talk to the Rival in Logic Lake.",
 
     -- Top Student Quest ---
 
-    LogicLakeNerdQuestTitle = "How do computers think?",
-    LogicLakeNerdQuestComplete = "Discovered that step-by-step instructions called algorithms command" ..
-        " computers.",
-    LogicLakeNerdQuest1 = "You find a secret scroll on code: It reads: A program turns" ..
-        " human words into 1s and 0s. This is called code.",
-    LogicLakeNerdQuest2 = "You find a book on Algorithms. It reads: We use code to give" ..
-        " computers step-by-step instructions.",
-    LogicLakeNerdHelp1 = "Talk to the student in Logic Gate School.",
-    LogicLakeNerdHelp2 = "Find a book in the twins' house in Vector Village.",
-    LogicLakeNerdHelp3 = "Report back to the student in Logic Gate School.",
-    LogicLakeNerdHelp4 = "Go to Port Ether library to investigate algorithms.",
-    LogicLakeNerdHelp5 = "Report back to the student in Logic Gate School.",
+    LogicLakeNerdQuestTitle = "Hoe denken computers?",
+    LogicLakeNerdQuestComplete = "Ontdekt dat stapsgewijze instructies genaamd algoritmen computers " ..
+        " besturen.",
+    LogicLakeNerdQuest1 = "Je vindt een geheime rol met code: Er staat: Een programma verandert" ..
+        " menselijke woorden in enen en nullen. Dit heet code",
+    LogicLakeNerdQuest2 = "Je vindt een boek over algoritmen. Er staat: We gebruiken code om "..
+        " computers stap-voor-stap instructies te geven.",
+    LogicLakeNerdHelp1 = "Praat met de student in Logische Poort School.",
+    LogicLakeNerdHelp2 = "Zoek een boek in het huis van de tweeling in Vector Village.",
+    LogicLakeNerdHelp3 = "Rapporteer terug aan de student in Logische Poort School.",
+    LogicLakeNerdHelp4 = "Ga naar de Ether Poort-bibliotheek om algoritmen te onderzoeken",
+    LogicLakeNerdHelp5 = "Rapporteer terug aan de student in Logische Poort School",
 
     -- Overworld - Cove --
 
-    plains01Sign = "HD Hill Ahead",
+    plains01Sign = "HD Heuvel verderop",
 
     -- HD Hill --
 
-    newsWatcher = "Shhh, I'm such a fan of the HD News Crew.",
-    HDMIgirl = "Wow, the HDMI port is amazing. Did you know it can transfer 162,000,000" ..
-        " pixels per second?",
-    HDMIreporter = "I love filming at the HDMI port. Watching the pictures, video and" ..
-        " sound go from here to the screen.",
+    newsWatcher = "Shhh, ik ben zo'n fan van de HD Nieuws Crew.",
+    HDMIgirl = "Wauw, de HDMI-poort is geweldig. Wist je dat het 162.000.000 pixels per seconde" ..
+        " kan oversturen?",
+    HDMIreporter = "Ik hou van filmen bij de HDMI-poort. Kijken naar de foto's, video en "..
+         " geluid gaan van hieruit naar het scherm." ..
     HDsoundguy = "Echo... echo... echo...",
-    HDmaster = "1080p. A weird name? But also the number of pixels high the screen image is." ..
-        " More coming up next, on HD news.",
+    HDmaster = "1080p. Een rare naam? Maar ook het aantal pixels hoog dat het schermbeeld is." ..
+        " Er volgt meer op HD-nieuws.",
 
     -- HDMI Quest --
 
