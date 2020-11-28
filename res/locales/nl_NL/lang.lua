@@ -331,7 +331,7 @@ return {
         " besturen.",
     LogicLakeNerdQuest1 = "Je vindt een geheime rol met code: Er staat: Een programma verandert" ..
         " menselijke woorden in enen en nullen. Dit heet code",
-    LogicLakeNerdQuest2 = "Je vindt een boek over algoritmen. Er staat: We gebruiken code om "..
+    LogicLakeNerdQuest2 = "Je vindt een boek over algoritmen. Er staat: We gebruiken code om " ..
         " computers stap-voor-stap instructies te geven.",
     LogicLakeNerdHelp1 = "Praat met de student in Logische Poort School.",
     LogicLakeNerdHelp2 = "Zoek een boek in het huis van de tweeling in Vector Village.",
@@ -348,8 +348,8 @@ return {
     newsWatcher = "Shhh, ik ben zo'n fan van de HD Nieuws Crew.",
     HDMIgirl = "Wauw, de HDMI-poort is geweldig. Wist je dat het 162.000.000 pixels per seconde" ..
         " kan oversturen?",
-    HDMIreporter = "Ik hou van filmen bij de HDMI-poort. Kijken naar de foto's, video en "..
-         " geluid gaan van hieruit naar het scherm." ..
+    HDMIreporter = "Ik hou van filmen bij de HDMI-poort. Kijken naar de foto's, video en " ..
+         " geluid gaan van hieruit naar het scherm.",
     HDsoundguy = "Echo... echo... echo...",
     HDmaster = "1080p. Een rare naam? Maar ook het aantal pixels hoog dat het schermbeeld is." ..
         " Er volgt meer op HD-nieuws.",
