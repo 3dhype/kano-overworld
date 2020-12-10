@@ -96,7 +96,7 @@ return {
 
     backToDashboard = "Terug naar dashboard",
     binaryborderArea = "Binaire grens",
-    beachArea = "SD Strand",
+    beachArea = "SD strand",
     lakeArea = "Logisch Meer",
     lakeSchoolArea = "Logische Poort School",
     coveArea = "VoedingsPad",
@@ -356,17 +356,17 @@ return {
 
     -- HDMI Quest --
 
-    hdmiQuestTitle = "Explore the HDMI",
-    hdmiQuestComplete = "Learned about HDMI and its workings.",
-    hdmiQuestHelp = "Find the news reporter on HD Hill.",
-    hdmiQuestHelp2 = "Complete an interview with the HD news crew.",
-    hdmiQuestHelp3 = "Talk with the news reporter.",
-    hdmiQuest = "Heya. We were making a film about the yellow cable transferring pictures," ..
-       " video and sound from the computer to the screen, when that strange White Rabbit" ..
-       " ran past.",
-    hdmiQuest2 = "Can you do an interview with our reporter?",
-    hdmiQuest3 = "Nice one. This report will blow the White Rabbit story wide open!" ..
-        "\nNow we just need to follow up on the sightings at the Port of Sound.",
+    hdmiQuestTitle = "Ontdek de HDMI",
+    hdmiQuestComplete = "Geleerd over HDMI en de werking ervan.",
+    hdmiQuestHelp = "Vind de nieuwsverslaggever op HD Heuvel.",
+    hdmiQuestHelp2 = "Voltooi een interview met de HD-nieuwsploeg.",
+    hdmiQuestHelp3 = "Praat met de nieuwsverslaggever.",
+    hdmiQuest = "Heya. We waren een film aan het maken over de gele kabel die foto's overbrengt," ..
+       " video en geluid van de computer naar het scherm, toen dat vreemde witte konijn" ..
+       " voorbij rende.",
+    hdmiQuest2 = "Kun je een interview doen met onze verslaggever?",
+    hdmiQuest3 = "Goeie. Dit rapport zal het witte konijn verhaal flink openblazen!" ..
+        "\nNu hoeven we alleen maar de waarnemingen in de Geluidspoort te volgen.",
 
     --- HD News Interview ---
 
